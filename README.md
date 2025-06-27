@@ -16,7 +16,7 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/ton-utilisateur/reality-checker-agent.git
+git clone https://github.com/Tahsine/reality-checker-agent.git
 cd reality-checker-agent
 ```
 
